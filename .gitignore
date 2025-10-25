@@ -9,9 +9,6 @@ Thumbs.db
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore large raw data
-data/*.csv
-
 # But allow final processed data for Tableau
 !data/breast_cancer_predictions.csv
 

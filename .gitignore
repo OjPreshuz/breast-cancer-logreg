@@ -13,4 +13,4 @@ Thumbs.db
 !data/breast_cancer_predictions.csv
 
 # Ignore model binaries
-models/*.pkl
+# models/*.pkl

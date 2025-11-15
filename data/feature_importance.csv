@@ -1,0 +1,11 @@
+Feature,Coefficient
+concave points_worst,3.494973729482947
+area_se,3.066473040490441
+texture_mean,1.27441149738186
+concavity_se,0.7600783896296917
+smoothness_se,0.22935648675251802
+symmetry_se,0.047439213537611755
+compactness_se,-0.20642304316982016
+texture_se,-0.3423049508596739
+concave points_se,-0.7015749194374462
+fractal_dimension_se,-0.7382271844184022
